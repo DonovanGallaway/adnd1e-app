@@ -17,7 +17,7 @@ const tableA = {
 
 // Attack Matrix for Fighters, Paladins, Rangers, Bards, and 0 Level Halflings and Humans
 const tableB = {
-    name: 'Fighters, Paladins, Rangers, Bards, Lvl 0 Haflings and Humans',
+    name: 'Fighters, Paladins, Rangers, Bards, Lvl 0 Halflings and Humans',
     columns: [
         {"0": '26 25 24 23 22 21 20 20 20 20 20 20 19 18 17 16 15 14 13 12 11'.split(' ')},
         {"1-2": '25 24 23 22 21 20 20 20 20 20 20 19 18 17 16 15 14 13 12 11 10'.split(' ')},
